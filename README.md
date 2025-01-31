@@ -1,8 +1,8 @@
 # Challenge do Amigo Secreto
 
-Este projeto trata-se de um challenge da Formação G8 - One Oracle Education em parceria com a alura.
+Este projeto trata-se de um challenge da Formação G8 - One Oracle Next Education em parceria com a Alura.
 
-O objetivo do challenge é desenvolver a parte logica de um site de sorteio de nomes com Java Scrript
+O objetivo do challenge é desenvolver a parte logica de um site de sorteio de nomes com Java Script
 
 ## Funcionalidades
 
